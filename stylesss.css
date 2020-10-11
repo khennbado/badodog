@@ -1,0 +1,120 @@
+#title{
+    background-color: #ff4c68;
+font-family: "Montserrat"
+}
+.iphone{
+    height: 200px;
+    width: 100px;
+    position: absolute;
+}
+@media (max-width): 1028px {
+    .iphone{ position: static;
+    
+    }
+}
+h1{
+   font-family: "Montserrat";
+   font-size: 3rem;
+   line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15% 55%;
+}
+
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.navbar{
+    padding-bottom: 2.5rem;
+}
+.nav-item{
+    padding: 0px 18px;
+}
+.download-button{
+    margin: 3% 5% 3% 0;
+}
+
+
+#feature{
+    padding: 7% 15%;
+    background-color: yellow;
+    position: relative;
+}
+.feature-box{
+    text-align: center;
+    padding: 7% 15%;
+}
+p{
+    color: gray;
+}
+.icon{
+    color: pink;
+    margin-bottom: 1rem;
+    
+}
+.icon:hover{
+    color: green;
+}
+#testimonials{
+    text-align: center;
+    background-color: #ff4c68;
+    ;
+}
+h2{
+    color: white;
+}
+.trafford{
+    width: 50%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#images{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.mash{
+    width: 20%;
+    margin: 10px;
+}
+.tech{
+    width: 20%;
+    margin: 10px;
+}
+.tnw{
+    width: 20%;
+    margin: 10px;
+}
+.down{
+    width: 15%;
+    border-radius: 100%;
+    margin: 10px;
+}
+.carousel-item{
+    padding: 7% 15%
+}
+#pricing{
+    padding: 10% 20%;
+}
+.header{
+    text-align: center;
+}
+
+.sign{
+    text-align: center;
+    padding-top: 20px;
+}
+#semi-bottom{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 10%;
+    color: white;
+}
+#fab-fa{
+    text-align: center;
+    padding: 20%;
+    
+}
